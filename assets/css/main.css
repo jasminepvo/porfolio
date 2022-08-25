@@ -3329,3 +3329,9 @@ body.is-touch .poptrox-popup .closer {
 	width: 50px;
 	margin: 2%;
 }
+
+.quote {
+	font-style: italic;
+	text-align: center;
+	color: #3eb08f;
+}
